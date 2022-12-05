@@ -11,7 +11,7 @@ and create own class **Smarysz** with various functions.
 
 ## Installation
 
-Create **<script>** tag in the bottom part of **<body>** and insert **src=""** attribute containing a valid library path.
+Create **<script>** tag in the bottom part of body tag and insert **src=""** attribute containing a valid library path.
 
 ```html
 <!DOCTYPE html>
